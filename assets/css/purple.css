@@ -14,3 +14,24 @@
 
   --submitBtn: #8534a3;
 }
+
+#light-mode {
+  background-color: #fff;
+  border-width: 0;
+}
+#blue-mode {
+  background-color: #192734;
+  border-width: 0;
+}
+#green-mode {
+  background-color: #78866b;
+  border-width: 0;
+}
+#purple-mode {
+  background-color: #7e4c74;
+  border-width: 5px;
+}
+#orange-mode {
+  background-color: #dfa842;
+  border-width: 0;
+}
