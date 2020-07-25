@@ -28,6 +28,9 @@ function setTheme(mode) {
   if (mode == "purple") {
     document.getElementById("theme-style").href = "assets/css/purple.css";
   }
+  if (mode == "orange") {
+    document.getElementById("theme-style").href = "assets/css/orange.css";
+  }
 
   localStorage.setItem("theme", mode);
 }
